@@ -11,6 +11,10 @@ Two shortcuts that enable sending and syncing reminders from Reminders to Logseq
 
 
 
+https://github.com/flegfleg/logseq-reminders-sync/assets/4009931/a1c48236-8a9e-4895-b893-5359a92edb30
+
+
+
 
 ## Setup
 
