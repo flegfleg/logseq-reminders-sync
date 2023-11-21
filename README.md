@@ -3,9 +3,11 @@
 
 Two shortcuts that enable sending and syncing reminders from Reminders to Logseq.
 
-**Sync Logseq Todos to Reminders**: Syncs Logseq todos with a deadline to the macOS Reminders app (see caveats).
+**Sync Logseq Todos to Reminders**: Syncs Logseq todos with a deadline to the macOS Reminders app (see caveats). 
+[Download shortcut](https://www.icloud.com/shortcuts/4537df9603b54c2f94b694d9e40d0fdf).
 
 **Send selected Logseq Todo to Reminders**: Sends the currently selected todo to reminders. 
+[Download shortcut](https://www.icloud.com/shortcuts/db29a9a7762a4b4984ce24eed85edc94).
 
 ## Demo
 
