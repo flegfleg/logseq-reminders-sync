@@ -1,6 +1,5 @@
 # Logseq Reminders Sync
 
-
 Two shortcuts that enable sending and syncing reminders from Reminders to Logseq.
 
 **Sync Logseq Todos to Reminders**: Syncs Logseq todos with a deadline to the macOS Reminders app (see caveats).
@@ -22,8 +21,10 @@ Two shortcuts that enable sending and syncing reminders from Reminders to Logseq
 
 1. Adding/Editing todos in the Reminders.app will not be reflected in Logseq, only the todo status is synced (setting a todo as „Done“ in Reminders sets the todo as „Done“ in Logseq).
 2. During the sync, a tag „processing-…“ will be created in Reminders. The tag may stay around for a few minutes until the Reminders.app interface updates.
+3. You should not manually add tasks to the selected Reminders list.
 
 
 ## Changelog
 
+* 231122: V1.1, Fix reminders list name config was not applied
 * 231121: V1.0, Initial Release
