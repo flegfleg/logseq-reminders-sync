@@ -3,13 +3,12 @@
 Two shortcuts that enable sending and syncing reminders from Reminders to Logseq.
 
 **Sync Logseq Todos to Reminders**: Syncs Logseq todos with a deadline to the macOS Reminders app (see caveats). 
-[Download shortcut](https://www.icloud.com/shortcuts/17bef305170347dda0f8f824a994f29d).
+[Download shortcut](https://www.icloud.com/shortcuts/d69901f7a3a041c88ef668dff237536a).
 
 **Send selected Logseq Todo to Reminders**: Sends the currently selected todo to reminders. 
 [Download shortcut](https://www.icloud.com/shortcuts/57e9b847ef4d42b4aa3e208ebfe5cc21).
 
 ## Demo
-
 
 
 https://github.com/flegfleg/logseq-reminders-sync/assets/4009931/a1c48236-8a9e-4895-b893-5359a92edb30
@@ -32,5 +31,6 @@ https://github.com/flegfleg/logseq-reminders-sync/assets/4009931/a1c48236-8a9e-4
 
 ## Changelog
 
+* 231225 : V1.2, Fix compatibility with macOS Sonoma
 * 231122: V1.1, Fix reminders list name config was not applied
 * 231121: V1.0, Initial Release
