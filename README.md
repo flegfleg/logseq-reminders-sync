@@ -27,7 +27,7 @@ https://github.com/flegfleg/logseq-reminders-sync/assets/4009931/a1c48236-8a9e-4
 1. This is a pretty complex shortcut, and Logseq block identifiers (uids) can change (e.g. if you do a Re-Index). Use at your own risk. 
 2. Adding/Editing todos in the Reminders.app will not be reflected in Logseq, only the todo status is synced (setting a todo as „Done“ in Reminders sets the todo as „Done“ in Logseq).
 3. During the sync, a tag „processing-…“ will be created in Reminders. The tag may stay around for a few seconds until the Reminders.app interface updates.
-4. Shortcut tested on macOS Ventura & Sonoma.
+4. Shortcut tested on macOS Ventura, Sonoma & Sequoia. 
 
 
 ## Changelog
